@@ -1,2 +1,2 @@
-# Curso_practivco_JavaScript
+# Curso_practico_JavaScript
 -_-
